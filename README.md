@@ -23,5 +23,5 @@ Here are some ideas to get you started:
 
 -->
 
-[<img alt="Top Langs" src="https://github-readme-stats-tau.vercel.app/api/top-langs/?username=stanleygarbo&layout=compact" />][Github]
+<img alt="Top Langs" src="https://github-readme-stats-tau.vercel.app/api/top-langs/?username=stanleygarbo&layout=compact" />
 <img alt="GitHub Stats" height="165px" src="https://github-readme-stats-tau.vercel.app/api?username=stanleygarbo&show_icons=true&count_private=true&title_color=e3fdfd&icon_color=c6fce5&text_color=fafafa&bg_color=15b7b9" />
