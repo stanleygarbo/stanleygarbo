@@ -23,5 +23,7 @@ Here are some ideas to get you started:
 
 -->
 
-<img alt="Top Langs" src="https://github-readme-stats-tau.vercel.app/api/top-langs/?username=stanleygarbo&layout=compact" />
-<img alt="GitHub Stats" height="165px" src="https://github-readme-stats-tau.vercel.app/api?username=stanleygarbo&show_icons=true&count_private=true&title_color=e3fdfd&icon_color=c6fce5&text_color=fafafa&bg_color=15b7b9" />
+<div align="center">
+   <img width="400" src="https://github-readme-stats.vercel.app/api?username=stanleygarbo&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" />
+  <img width="336" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stanleygarbo&theme=tokyonight&layout=compact&hide_border=true" />
+</div>
