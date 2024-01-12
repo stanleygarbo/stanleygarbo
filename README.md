@@ -3,11 +3,6 @@
 
 ### Hi there 👋 my name's Stanley
 
-- 🎓 A computer science major 
-- 🌱 I’m currently learning software design patterns and how to write better code
-- 📚 Currently reading node.js design patterns
-- ⚙️ I’m currently focusing on TypeScript and Node.js
-- 🧿 Tech I'm looking into: Prisma, TRPC, Next 13, TailWind
 <!--
 - 🔭 I’m currently working on ...
 
